@@ -172,7 +172,7 @@
 #### 2.5.2.1 Страница Стилиста
 Состав:
 
-<img width="550" alt="Screenshot 2022-11-11 at 01 32 58" src="https://user-images.githubusercontent.com/80126370/201220812-a41ec184-50e5-463b-9df9-62c24e779987.png">
+<img width="550" alt="Screenshot 2022-11-11 at 01 32 58" src="https://user-images.githubusercontent.com/80126370/201229892-5532a626-11d4-4586-9bfa-b161975c1822.png">
 
 * Фото профиля
 * Имя
